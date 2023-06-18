@@ -172,6 +172,8 @@ body {
 .experiences {
     flex: 1 1 60%;
     margin-right: 50px;
+    
+    margin: left;
 }
 
 .experiences__header {
@@ -216,6 +218,7 @@ body {
 .experiences__company-project-responsibilities {
     color: var(--secondary-text-color);
     padding-left: 20px;
+    text-align: left;
 }
 
 .additional-info {
