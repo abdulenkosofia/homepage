@@ -171,14 +171,13 @@ body {
 
 .experiences {
     flex: 1 1 60%;
-    margin-right: 50px;
+    margin-right: 50px;    
     
-    margin: left;
 }
 
 .experiences__header {
     color: var(--secondary-text-color);
-    text-align: left;
+    text-align: center;
     margin-bottom: 20px;
 }
 
@@ -231,7 +230,7 @@ body {
 
 .additional-info__education-header {
     color: var(--secondary-text-color);
-    text-align: left;
+    text-align: center;
     margin-bottom: 20px;
 }
 
@@ -258,7 +257,7 @@ body {
 
 .additional-info__languages-header {
     color: var(--secondary-text-color);
-    text-align: left;
+    text-align: center;
     margin-bottom: 20px;
 }
 
