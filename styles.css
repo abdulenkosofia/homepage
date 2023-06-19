@@ -166,17 +166,17 @@ body {
 
 .skills__text {
     color: var(--secondary-text-color);
-    text-align: justify;
+    text-align: justify;   
 }
 
 .experiences {
     flex: 1 1 60%;
-    margin-right: 50px;
+    margin-right: 50px;        
 }
 
 .experiences__header {
     color: var(--secondary-text-color);
-    text-align: left;
+    text-align: center;
     margin-bottom: 20px;
 }
 
@@ -216,6 +216,7 @@ body {
 .experiences__company-project-responsibilities {
     color: var(--secondary-text-color);
     padding-left: 20px;
+    text-align: left;
 }
 
 .additional-info {
@@ -228,7 +229,7 @@ body {
 
 .additional-info__education-header {
     color: var(--secondary-text-color);
-    text-align: left;
+    text-align: center;
     margin-bottom: 20px;
 }
 
@@ -255,7 +256,7 @@ body {
 
 .additional-info__languages-header {
     color: var(--secondary-text-color);
-    text-align: left;
+    text-align: center;
     margin-bottom: 20px;
 }
 
