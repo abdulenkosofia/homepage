@@ -166,13 +166,12 @@ body {
 
 .skills__text {
     color: var(--secondary-text-color);
-    text-align: justify;
+    text-align: justify;   
 }
 
 .experiences {
     flex: 1 1 60%;
-    margin-right: 50px;    
-    
+    margin-right: 50px;        
 }
 
 .experiences__header {
